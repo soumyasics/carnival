@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/projects/carnival/static/css/main.51800a24.css",
+    "main.js": "/projects/carnival/static/js/main.c655b2a6.js",
+    "static/js/787.bfa9838e.chunk.js": "/projects/carnival/static/js/787.bfa9838e.chunk.js",
+    "static/media/about-1.jpg": "/projects/carnival/static/media/about-1.2a44b317bc04162acd87.jpg",
+    "static/media/about-3.jpg": "/projects/carnival/static/media/about-3.404d5b0bd4f7a24bb1df.jpg",
+    "static/media/about-2.jpg": "/projects/carnival/static/media/about-2.c65c87ca4e34c46a059b.jpg",
+    "static/media/carousel-1.jpg": "/projects/carnival/static/media/carousel-1.507475a8f80e67928064.jpg",
+    "static/media/remixicon.svg?t=1690730386070": "/projects/carnival/static/media/remixicon.db77551b8efc76571c4f.svg",
+    "static/media/remixicon.eot?t=1690730386070": "/projects/carnival/static/media/remixicon.53ec05edb4b6864b45b1.eot",
+    "static/media/remixicon.ttf?t=1690730386070": "/projects/carnival/static/media/remixicon.4aa0fd158658e2a40e79.ttf",
+    "static/media/comp3.jpg": "/projects/carnival/static/media/comp3.abc9c63126f6e98d5e48.jpg",
+    "static/media/remixicon.woff?t=1690730386070": "/projects/carnival/static/media/remixicon.affd60ca37df38cfee4f.woff",
+    "static/media/carousel-2.jpg": "/projects/carnival/static/media/carousel-2.bb755566d392a7dada10.jpg",
+    "static/media/remixicon.woff2?t=1690730386070": "/projects/carnival/static/media/remixicon.821a773710130bcf4674.woff2",
+    "index.html": "/projects/carnival/index.html",
+    "main.51800a24.css.map": "/projects/carnival/static/css/main.51800a24.css.map",
+    "main.c655b2a6.js.map": "/projects/carnival/static/js/main.c655b2a6.js.map",
+    "787.bfa9838e.chunk.js.map": "/projects/carnival/static/js/787.bfa9838e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51800a24.css",
+    "static/js/main.c655b2a6.js"
+  ]
+}
